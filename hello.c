@@ -29,10 +29,10 @@ int main(){
     //printf("area is : %f",side*side);
 
     //calculate the area of the circle 
-    float radius ;
-    printf("Enter the radius:");
-    scanf("%f",&radius);
-    printf("The area of the circle is %d " , 3.14 * radius * radius);
+    //float radius ;
+    //printf("Enter the radius:");
+    //scanf("%f",&radius);
+    //printf("The area of the circle is %d " , 3.14 * radius * radius);
 
 
 
